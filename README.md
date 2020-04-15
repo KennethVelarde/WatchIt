@@ -6,7 +6,7 @@ Used TMDB(The Movie DataBase) to get the information being displayed including m
 Download the Android app here:
 https://play.google.com/store/apps/details?id=com.Watchit.my_app
 
-![landing pages](/master/img_/landing_page.png)
+![landing pages](/img_/landing_page.png)
 
 
 
