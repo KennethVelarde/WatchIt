@@ -6,7 +6,7 @@ Used TMDB(The Movie DataBase) to get the information being displayed including m
 Download the Android app here:
 https://play.google.com/store/apps/details?id=com.Watchit.my_app
 
-![landing page]("/img_/Screen Shot 2020-04-10 at 9.37.30 PM.png")
+![landing page](https://github.com/KennethVelarde/Watchit/blob/master/img_/Screen%20Shot%202020-04-10%20at%209.37.30%20PM.png)
 
 
 
