@@ -1,6 +1,6 @@
 # Watchit
 
-An application for getting up to date information upcoming, most popular, top rated, and now playing movies.
+An Android application for getting up to date information upcoming, most popular, top rated, and now playing movies.
 Used TMDB(The Movie DataBase) to get the information being displayed including movie descriptions, ratings, etc.
 
 
