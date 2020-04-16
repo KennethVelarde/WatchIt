@@ -7,8 +7,7 @@ Download the Android app here:
 https://play.google.com/store/apps/details?id=com.Watchit.my_app
 
 ![landing page](/img_/landing_page.png)
-![most popular page](/img_/most_popular_page.png)
-![top_rated page](/img_/top_rated_page.png)
+![most popular page](/img_/most_popular_page.png) ![top_rated page](/img_/top_rated_page.png)
 
 
 
