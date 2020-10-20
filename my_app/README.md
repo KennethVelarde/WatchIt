@@ -1,4 +1,4 @@
-# my_app
+# Watchit
 
 A new Flutter project.
 
